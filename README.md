@@ -43,11 +43,11 @@
 ![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=currentco&hide=php&theme=tokyonight)
 -->
 <div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=currentco&count_private=true&show_icons=true&theme=tokyonight">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=currentco&count_private=true&show_icons=true&theme=tokyonight" />
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=currentco&count_private=true&show_icons=true&theme=yeblu">
+  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=currentco&count_private=true&show_icons=true&theme=yeblu" />
 </a>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=currentco&hide=php&theme=tokyonight">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=currentco&hide=php&theme=tokyonight" />
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=currentco&hide=php&theme=yeblu">
+  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=currentco&hide=php&theme=yeblu" />
 </a>
 </div>
 
