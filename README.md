@@ -8,7 +8,6 @@
 
 - 🔭 I’m currently learning Data Analytics and Machine Learning.
 - 👯 I’m looking to collaborate in new projects!
-- 💬 Ask me about anything
 - 📸 Fun fact: I'm also a professional photographer.
 <br/>
 
