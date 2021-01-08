@@ -7,7 +7,7 @@
 ## 🎓 I'm a Data Analyst Nanodegree student at Udacity
 
 - 🔭 I’m currently learning Data Analytics and Machine Learning.
-- 👯 I’m looking to collaborate in new projects!
+- 👯 Looking to collaborate in new projects!
 <br/>
 
 ## :email: Find me on:
