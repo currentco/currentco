@@ -7,6 +7,7 @@
 ## 🎓 I'm a Data Analyst Nanodegree student at Udacity
 
 - 🔭 I’m currently learning Data Analytics and Machine Learning.
+- 📚 BBA, Business Information Technology
 - 👯 Looking to collaborate in new projects!
 <br/>
 
