@@ -1,4 +1,4 @@
-## Hi there 👋 I'm [Eevamaija][website]!
+## Hi there 👋 I'm Eevamaija!
 <!--
 ![](https://visitor-badge.laobi.icu/badge?page_id=currentco) [![Github](https://img.shields.io/github/followers/currentco?label=Followers&logo=Github)](https://github.com/currentco)
 -->
