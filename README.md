@@ -4,9 +4,9 @@
 -->
 <br/>
 
-- 🎓 I'm a Data Analyst, currently studying Data Science and Machine Learning.
+- 🎓 Data Analyst, currently studying Data Science and Machine Learning
 - 📚 BBA, Business Information Technology
-- 👯 Looking to collaborate in new projects!
+- 👯 Looking for new projects!
 <br/>
 
 ## :email: Find me on:
