@@ -14,7 +14,6 @@
 <!--
 [<img align="left" alt="currentco" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="currentco" | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="currentco" | Mail" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
 -->
 
 <p align="center">
@@ -38,6 +37,5 @@
 
 [website]: https://github.com/currentco
 [linkedin]: https://linkedin.com/in/eevamaijavirtanen
-[mail]: mailto:info@eevamaijavirtanen.fi
 
 
