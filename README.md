@@ -4,8 +4,8 @@
 -->
 <br/>
 
-- 🎓 Microsoft certified Data Analyst (DA-100), BBA - Business Information Technology
-- 📚 Studying data engineering and predictive analytics 
+- Data Engineer, 🎓 Microsoft certified Data Analyst (DA-100), BBA - Business Information Technology
+- 📚 Studying machine learning 
 <br/>
 
 ## :email: Find me on:
