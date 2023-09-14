@@ -4,8 +4,11 @@
 -->
 <br/>
 
-- Data Engineer, 🎓 Microsoft certified Data Analyst (DA-100), BBA - Business Information Technology
-- 📚 Studying machine learning 
+- 🏵️ Google Certified Professional Data Engineer
+- 🏵️ AWS Certified Cloud Practitioner
+- 🏵️ Microsoft certified Data Analyst (DA-100)
+- 🎓 BBA - Business Information Technology
+- 📚 Studying machine learning, data strategy and data-driven leadership
 <br/>
 
 ## :email: Find me on:
